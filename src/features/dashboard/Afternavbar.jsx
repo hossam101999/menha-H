@@ -6,7 +6,7 @@ const Afternavbar = () => {
     <div className="relative w-full">
       <div className="w-full h-[300px] sm:h-[500px] lg:h-[600px]">
         <img
-          src="https://www.chevening.org/wp-content/uploads/2024/08/AG-Chevening-Scholars-London-PM-077-980x358.jpg"
+          src="heroBG.jpg"
           alt="Menha Scholarship"
           className="w-full h-full object-cover"
         />
