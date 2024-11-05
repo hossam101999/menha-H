@@ -2,9 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Afternavbar = () => {
+
   return (
     <div className="relative w-full">
-      <div className="w-full h-[300px] sm:h-[500px] lg:h-[600px]">
+      <div className="w-full h-[299px] sm:h-[500px] lg:h-[600px]">
         <img
           src="heroBG.jpg"
           alt="Menha Scholarship"
